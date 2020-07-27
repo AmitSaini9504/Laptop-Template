@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"name": "Template",
+			"path": "E:\\Template"
+		},
+		{
+			"name": "Rajasthan Portal",
+			"path": "E:\\Rajasthan Portal"
+		},
+		{
+			"name": "Covid 19",
+			"path": "E:\\Covid 19"
+		},
+		{
+			"name": "12may",
+			"path": "E:\\12may"
+		},
+		{
+			"name": "13May",
+			"path": "E:\\13May"
+		},
+		{
+			"name": "14may",
+			"path": "E:\\14may"
+		},
+		{
+			"name": "15may",
+			"path": "E:\\15may"
+		},
+		{
+			"path": "E:\\16may"
+		},
+		{
+			"path": "E:\\18may"
+		},
+		{
+			"path": "E:\\Gallary"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Laptop Template"
+	}
+}
